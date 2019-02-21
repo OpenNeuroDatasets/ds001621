@@ -1,161 +1,161 @@
-onset	duration	item	rotation	accuracy	reaction_time
-10.024	1	C4	0	1	1.3103
-12.0631	1	C3	90	1	1.1353
-18.1005	1	C4	0	1	0.87257
-24.1379	1	C2	0	1	0.79764
-26.1771	1	C1	0	1	0.83899
-30.2153	1	C2	0	1	0.8391
-34.2536	1	C3	0	1	0.72165
-40.2911	1	C4	0	1	0.70576
-46.3285	1	C5	0	1	0.75692
-48.3676	1	A1	0	1	1.8489
-52.4059	1	A2	0	1	0.94484
-56.4442	1	A3	0	1	0.73664
-62.4816	1	A4	0	1	1.1108
-64.5207	1	A5	90	1	1.6474
-68.559	1	B1	0	1	1.2379
-70.5981	1	B2	0	1	0.87217
-74.6364	1	B3	0	1	0.84168
-78.6747	1	B4	0	1	0.76459
-84.7121	1	B5	0	1	0.77625
-90.7496	1	C1	0	1	1.0293
-94.7878	1	B5	0	1	0.73757
-96.827	1	B4	0	1	0.83513
-102.8644	1	B2	0	1	0.83095
-106.9027	1	B1	0	1	0.97444
-112.9401	1	A5	0	1	0.95491
-116.9784	1	A4	90	n/a	n/a
-119.0175	1	A3	90	n/a	n/a
-121.0567	1	A2	0	n/a	n/a
-123.0958	1	A5	0	1	1.0294
-125.1349	1	A2	0	1	0.93746
-129.1732	1	A1	0	1	1.107
-133.2115	1	A3	0	1	0.8192
-137.2498	1	A1	0	1	1.4289
-143.2872	1	A2	90	1	1.3193
-147.3255	1	A3	0	1	0.85062
-151.3637	1	A4	90	1	1.693
-155.402	1	A5	0	1	0.85083
-159.4403	1	B1	0	1	0.89368
-161.4794	1	B2	0	1	1.0294
-163.5186	1	B3	0	1	1.0579
-165.5577	1	B4	90	1	1.2254
-167.5968	1	B5	0	1	1.0417
-171.6351	1	C1	0	1	1.1559
-177.6725	1	C2	0	1	1.1273
-183.71	1	C3	0	1	1.1191
-187.7482	1	C4	90	1	1.2495
-189.7874	1	C5	0	1	1.1233
-195.8248	1	A1	0	1	1.221
-197.8639	1	A2	0	1	0.8968
-203.9014	1	A3	0	1	0.88202
-209.9388	1	A1	0	1	1.4456
-211.9779	1	A2	0	1	1.2784
-218.0154	1	A3	0	1	0.72115
-222.0536	1	A2	90	1	1.1436
-224.0928	1	A3	90	1	1.2742
-230.1302	1	A5	0	1	0.80487
-232.1693	1	A3	0	1	0.80723
-236.2076	1	A4	0	1	0.66999
-242.245	1	A2	0	1	1.0988
-244.2842	1	A4	0	1	1.4741
-246.3233	1	A2	0	1	1.0293
-250.3616	1	A4	0	1	0.90143
-252.4007	1	A3	0	1	0.78315
-254.4398	1	A5	0	1	0.8131
-258.4781	1	A3	90	1	0.92938
-260.5172	1	A4	0	1	1.7069
-264.5555	1	A5	0	1	0.92327
-266.5947	1	B1	0	1	1.1152
-268.6338	1	B2	0	1	1.3318
-272.6721	1	B3	0	1	0.80861
-274.7112	1	B4	0	1	0.95098
-276.7503	1	B5	0	1	0.91407
-278.7894	1	C1	0	1	0.88307
-282.8277	1	C2	0	1	0.74732
-286.866	1	C3	0	1	0.89881
-288.9052	1	C4	0	1	0.85314
-292.9434	1	C5	0	1	1.439
-296.9817	1	A1	0	1	1.0329
-301.02	1	A2	0	1	0.86617
-305.0583	1	A3	0	1	0.82089
-309.0965	1	A1	0	1	0.75967
-315.134	1	A4	0	1	1.2951
-317.1731	1	A3	0	1	1.209
-319.2122	1	A1	0	1	1.0906
-323.2505	1	A3	0	1	0.67439
-325.2896	1	A4	0	1	1.2541
-327.3288	1	A5	0	1	0.64478
-331.3671	1	A4	0	1	0.86512
-335.4053	1	A5	0	1	0.68927
-341.4428	1	B1	0	1	1.0539
-345.481	1	B4	0	1	0.84604
-347.5202	1	B1	0	1	1.3971
-349.5593	1	A5	0	1	0.98323
-351.5984	1	A3	90	0	0.76639
-355.6367	1	A1	90	1	1.3841
-361.6741	1	C5	0	1	0.99608
-363.7133	1	C4	0	1	0.95764
-365.7524	1	C3	0	1	0.91826
-369.7907	1	C2	0	1	1.0865
-375.8281	1	C1	90	1	1.2506
-377.8672	1	B5	0	1	0.8104
-383.9047	1	B4	0	1	1.1969
-389.9421	1	B3	0	1	0.96124
-395.9795	1	B2	0	1	0.94886
-400.0178	1	B1	0	1	0.93949
-404.0561	1	A5	0	1	1.3819
-410.0935	1	A4	0	1	0.94583
-412.1326	1	A3	0	1	0.88208
-418.1701	1	A2	0	1	0.9345
-424.2075	1	A1	0	1	1.0293
-430.2449	1	A4	0	1	0.86657
-434.2832	1	A5	0	1	1.1888
-436.3223	1	A2	0	1	0.98158
-438.3615	1	A4	0	1	1.2056
-442.3997	1	A2	0	1	0.77474
-446.438	1	A5	0	1	1.0295
-448.4772	1	A2	0	1	0.78398
-450.5163	1	A3	0	1	0.8731
-456.5537	1	A5	90	1	1.0702
-462.5911	1	A3	0	1	0.83277
-464.6303	1	A2	0	1	1.0335
-468.6686	1	A4	0	1	0.9929
-470.7077	1	A1	0	1	1.2172
-474.746	1	A3	0	1	0.6273
-476.7851	1	A5	0	1	0.70065
-480.8234	1	A4	0	1	0.75951
-486.8608	1	A3	0	n/a	n/a
-488.8999	1	A2	0	1	0.8649
-494.9374	1	A1	0	1	1.5829
-498.9756	1	C5	0	1	1.3663
-505.0131	1	C4	0	n/a	n/a
-507.0522	1	C3	0	1	0.95696
-513.0896	1	C2	0	1	1.0294
-515.1288	1	C1	90	1	1.4955
-517.1679	1	B5	0	1	0.9969
-521.2062	1	B4	0	1	1.0294
-525.2445	1	B3	0	1	1.7605
-531.2819	1	B2	0	1	0.91822
-533.321	1	B1	0	1	0.91727
-537.3593	1	A5	0	1	1.1029
-541.3976	1	A2	0	1	0.99422
-545.4359	1	A5	0	1	0.82566
-549.4741	1	A3	0	1	0.74254
-553.5124	1	A5	0	1	1.3655
-555.5515	1	A2	0	1	1.4217
-557.5907	1	A4	0	1	0.99052
-561.629	1	A3	0	1	1.5302
-565.6672	1	A5	90	1	2.043
-569.7055	1	A4	0	1	1.3578
-571.7446	1	A5	0	1	0.74109
-577.7821	1	A4	0	1	0.88979
-579.8212	1	A5	0	1	0.92288
-585.8586	1	A3	90	1	1.709
-591.8961	1	A1	0	1	1.0867
-595.9343	1	C5	0	1	1.7051
-601.9718	1	A1	0	1	1.1072
-604.0109	1	A2	90	1	1.4357
-606.05	1	A3	0	1	0.87499
-610.0883	1	A4	0	1	0.89535
-614.1266	1	A5	0	1	0.93425
+onset	duration	item	rotation	accuracy	reaction_time	stim_file
+10.024	1	C4	0	1	1.3103	sub-17_stim-commstruc_C4.jpg
+12.0631	1	C3	90	1	1.1353	sub-17_stim-commstruc_C3.jpg
+18.1005	1	C4	0	1	0.87257	sub-17_stim-commstruc_C4.jpg
+24.1379	1	C2	0	1	0.79764	sub-17_stim-commstruc_C2.jpg
+26.1771	1	C1	0	1	0.83899	sub-17_stim-commstruc_C1.jpg
+30.2153	1	C2	0	1	0.8391	sub-17_stim-commstruc_C2.jpg
+34.2536	1	C3	0	1	0.72165	sub-17_stim-commstruc_C3.jpg
+40.2911	1	C4	0	1	0.70576	sub-17_stim-commstruc_C4.jpg
+46.3285	1	C5	0	1	0.75692	sub-17_stim-commstruc_C5.jpg
+48.3676	1	A1	0	1	1.8489	sub-17_stim-commstruc_A1.jpg
+52.4059	1	A2	0	1	0.94484	sub-17_stim-commstruc_A2.jpg
+56.4442	1	A3	0	1	0.73664	sub-17_stim-commstruc_A3.jpg
+62.4816	1	A4	0	1	1.1108	sub-17_stim-commstruc_A4.jpg
+64.5207	1	A5	90	1	1.6474	sub-17_stim-commstruc_A5.jpg
+68.559	1	B1	0	1	1.2379	sub-17_stim-commstruc_B1.jpg
+70.5981	1	B2	0	1	0.87217	sub-17_stim-commstruc_B2.jpg
+74.6364	1	B3	0	1	0.84168	sub-17_stim-commstruc_B3.jpg
+78.6747	1	B4	0	1	0.76459	sub-17_stim-commstruc_B4.jpg
+84.7121	1	B5	0	1	0.77625	sub-17_stim-commstruc_B5.jpg
+90.7496	1	C1	0	1	1.0293	sub-17_stim-commstruc_C1.jpg
+94.7878	1	B5	0	1	0.73757	sub-17_stim-commstruc_B5.jpg
+96.827	1	B4	0	1	0.83513	sub-17_stim-commstruc_B4.jpg
+102.8644	1	B2	0	1	0.83095	sub-17_stim-commstruc_B2.jpg
+106.9027	1	B1	0	1	0.97444	sub-17_stim-commstruc_B1.jpg
+112.9401	1	A5	0	1	0.95491	sub-17_stim-commstruc_A5.jpg
+116.9784	1	A4	90	n/a	n/a	sub-17_stim-commstruc_A4.jpg
+119.0175	1	A3	90	n/a	n/a	sub-17_stim-commstruc_A3.jpg
+121.0567	1	A2	0	n/a	n/a	sub-17_stim-commstruc_A2.jpg
+123.0958	1	A5	0	1	1.0294	sub-17_stim-commstruc_A5.jpg
+125.1349	1	A2	0	1	0.93746	sub-17_stim-commstruc_A2.jpg
+129.1732	1	A1	0	1	1.107	sub-17_stim-commstruc_A1.jpg
+133.2115	1	A3	0	1	0.8192	sub-17_stim-commstruc_A3.jpg
+137.2498	1	A1	0	1	1.4289	sub-17_stim-commstruc_A1.jpg
+143.2872	1	A2	90	1	1.3193	sub-17_stim-commstruc_A2.jpg
+147.3255	1	A3	0	1	0.85062	sub-17_stim-commstruc_A3.jpg
+151.3637	1	A4	90	1	1.693	sub-17_stim-commstruc_A4.jpg
+155.402	1	A5	0	1	0.85083	sub-17_stim-commstruc_A5.jpg
+159.4403	1	B1	0	1	0.89368	sub-17_stim-commstruc_B1.jpg
+161.4794	1	B2	0	1	1.0294	sub-17_stim-commstruc_B2.jpg
+163.5186	1	B3	0	1	1.0579	sub-17_stim-commstruc_B3.jpg
+165.5577	1	B4	90	1	1.2254	sub-17_stim-commstruc_B4.jpg
+167.5968	1	B5	0	1	1.0417	sub-17_stim-commstruc_B5.jpg
+171.6351	1	C1	0	1	1.1559	sub-17_stim-commstruc_C1.jpg
+177.6725	1	C2	0	1	1.1273	sub-17_stim-commstruc_C2.jpg
+183.71	1	C3	0	1	1.1191	sub-17_stim-commstruc_C3.jpg
+187.7482	1	C4	90	1	1.2495	sub-17_stim-commstruc_C4.jpg
+189.7874	1	C5	0	1	1.1233	sub-17_stim-commstruc_C5.jpg
+195.8248	1	A1	0	1	1.221	sub-17_stim-commstruc_A1.jpg
+197.8639	1	A2	0	1	0.8968	sub-17_stim-commstruc_A2.jpg
+203.9014	1	A3	0	1	0.88202	sub-17_stim-commstruc_A3.jpg
+209.9388	1	A1	0	1	1.4456	sub-17_stim-commstruc_A1.jpg
+211.9779	1	A2	0	1	1.2784	sub-17_stim-commstruc_A2.jpg
+218.0154	1	A3	0	1	0.72115	sub-17_stim-commstruc_A3.jpg
+222.0536	1	A2	90	1	1.1436	sub-17_stim-commstruc_A2.jpg
+224.0928	1	A3	90	1	1.2742	sub-17_stim-commstruc_A3.jpg
+230.1302	1	A5	0	1	0.80487	sub-17_stim-commstruc_A5.jpg
+232.1693	1	A3	0	1	0.80723	sub-17_stim-commstruc_A3.jpg
+236.2076	1	A4	0	1	0.66999	sub-17_stim-commstruc_A4.jpg
+242.245	1	A2	0	1	1.0988	sub-17_stim-commstruc_A2.jpg
+244.2842	1	A4	0	1	1.4741	sub-17_stim-commstruc_A4.jpg
+246.3233	1	A2	0	1	1.0293	sub-17_stim-commstruc_A2.jpg
+250.3616	1	A4	0	1	0.90143	sub-17_stim-commstruc_A4.jpg
+252.4007	1	A3	0	1	0.78315	sub-17_stim-commstruc_A3.jpg
+254.4398	1	A5	0	1	0.8131	sub-17_stim-commstruc_A5.jpg
+258.4781	1	A3	90	1	0.92938	sub-17_stim-commstruc_A3.jpg
+260.5172	1	A4	0	1	1.7069	sub-17_stim-commstruc_A4.jpg
+264.5555	1	A5	0	1	0.92327	sub-17_stim-commstruc_A5.jpg
+266.5947	1	B1	0	1	1.1152	sub-17_stim-commstruc_B1.jpg
+268.6338	1	B2	0	1	1.3318	sub-17_stim-commstruc_B2.jpg
+272.6721	1	B3	0	1	0.80861	sub-17_stim-commstruc_B3.jpg
+274.7112	1	B4	0	1	0.95098	sub-17_stim-commstruc_B4.jpg
+276.7503	1	B5	0	1	0.91407	sub-17_stim-commstruc_B5.jpg
+278.7894	1	C1	0	1	0.88307	sub-17_stim-commstruc_C1.jpg
+282.8277	1	C2	0	1	0.74732	sub-17_stim-commstruc_C2.jpg
+286.866	1	C3	0	1	0.89881	sub-17_stim-commstruc_C3.jpg
+288.9052	1	C4	0	1	0.85314	sub-17_stim-commstruc_C4.jpg
+292.9434	1	C5	0	1	1.439	sub-17_stim-commstruc_C5.jpg
+296.9817	1	A1	0	1	1.0329	sub-17_stim-commstruc_A1.jpg
+301.02	1	A2	0	1	0.86617	sub-17_stim-commstruc_A2.jpg
+305.0583	1	A3	0	1	0.82089	sub-17_stim-commstruc_A3.jpg
+309.0965	1	A1	0	1	0.75967	sub-17_stim-commstruc_A1.jpg
+315.134	1	A4	0	1	1.2951	sub-17_stim-commstruc_A4.jpg
+317.1731	1	A3	0	1	1.209	sub-17_stim-commstruc_A3.jpg
+319.2122	1	A1	0	1	1.0906	sub-17_stim-commstruc_A1.jpg
+323.2505	1	A3	0	1	0.67439	sub-17_stim-commstruc_A3.jpg
+325.2896	1	A4	0	1	1.2541	sub-17_stim-commstruc_A4.jpg
+327.3288	1	A5	0	1	0.64478	sub-17_stim-commstruc_A5.jpg
+331.3671	1	A4	0	1	0.86512	sub-17_stim-commstruc_A4.jpg
+335.4053	1	A5	0	1	0.68927	sub-17_stim-commstruc_A5.jpg
+341.4428	1	B1	0	1	1.0539	sub-17_stim-commstruc_B1.jpg
+345.481	1	B4	0	1	0.84604	sub-17_stim-commstruc_B4.jpg
+347.5202	1	B1	0	1	1.3971	sub-17_stim-commstruc_B1.jpg
+349.5593	1	A5	0	1	0.98323	sub-17_stim-commstruc_A5.jpg
+351.5984	1	A3	90	0	0.76639	sub-17_stim-commstruc_A3.jpg
+355.6367	1	A1	90	1	1.3841	sub-17_stim-commstruc_A1.jpg
+361.6741	1	C5	0	1	0.99608	sub-17_stim-commstruc_C5.jpg
+363.7133	1	C4	0	1	0.95764	sub-17_stim-commstruc_C4.jpg
+365.7524	1	C3	0	1	0.91826	sub-17_stim-commstruc_C3.jpg
+369.7907	1	C2	0	1	1.0865	sub-17_stim-commstruc_C2.jpg
+375.8281	1	C1	90	1	1.2506	sub-17_stim-commstruc_C1.jpg
+377.8672	1	B5	0	1	0.8104	sub-17_stim-commstruc_B5.jpg
+383.9047	1	B4	0	1	1.1969	sub-17_stim-commstruc_B4.jpg
+389.9421	1	B3	0	1	0.96124	sub-17_stim-commstruc_B3.jpg
+395.9795	1	B2	0	1	0.94886	sub-17_stim-commstruc_B2.jpg
+400.0178	1	B1	0	1	0.93949	sub-17_stim-commstruc_B1.jpg
+404.0561	1	A5	0	1	1.3819	sub-17_stim-commstruc_A5.jpg
+410.0935	1	A4	0	1	0.94583	sub-17_stim-commstruc_A4.jpg
+412.1326	1	A3	0	1	0.88208	sub-17_stim-commstruc_A3.jpg
+418.1701	1	A2	0	1	0.9345	sub-17_stim-commstruc_A2.jpg
+424.2075	1	A1	0	1	1.0293	sub-17_stim-commstruc_A1.jpg
+430.2449	1	A4	0	1	0.86657	sub-17_stim-commstruc_A4.jpg
+434.2832	1	A5	0	1	1.1888	sub-17_stim-commstruc_A5.jpg
+436.3223	1	A2	0	1	0.98158	sub-17_stim-commstruc_A2.jpg
+438.3615	1	A4	0	1	1.2056	sub-17_stim-commstruc_A4.jpg
+442.3997	1	A2	0	1	0.77474	sub-17_stim-commstruc_A2.jpg
+446.438	1	A5	0	1	1.0295	sub-17_stim-commstruc_A5.jpg
+448.4772	1	A2	0	1	0.78398	sub-17_stim-commstruc_A2.jpg
+450.5163	1	A3	0	1	0.8731	sub-17_stim-commstruc_A3.jpg
+456.5537	1	A5	90	1	1.0702	sub-17_stim-commstruc_A5.jpg
+462.5911	1	A3	0	1	0.83277	sub-17_stim-commstruc_A3.jpg
+464.6303	1	A2	0	1	1.0335	sub-17_stim-commstruc_A2.jpg
+468.6686	1	A4	0	1	0.9929	sub-17_stim-commstruc_A4.jpg
+470.7077	1	A1	0	1	1.2172	sub-17_stim-commstruc_A1.jpg
+474.746	1	A3	0	1	0.6273	sub-17_stim-commstruc_A3.jpg
+476.7851	1	A5	0	1	0.70065	sub-17_stim-commstruc_A5.jpg
+480.8234	1	A4	0	1	0.75951	sub-17_stim-commstruc_A4.jpg
+486.8608	1	A3	0	n/a	n/a	sub-17_stim-commstruc_A3.jpg
+488.8999	1	A2	0	1	0.8649	sub-17_stim-commstruc_A2.jpg
+494.9374	1	A1	0	1	1.5829	sub-17_stim-commstruc_A1.jpg
+498.9756	1	C5	0	1	1.3663	sub-17_stim-commstruc_C5.jpg
+505.0131	1	C4	0	n/a	n/a	sub-17_stim-commstruc_C4.jpg
+507.0522	1	C3	0	1	0.95696	sub-17_stim-commstruc_C3.jpg
+513.0896	1	C2	0	1	1.0294	sub-17_stim-commstruc_C2.jpg
+515.1288	1	C1	90	1	1.4955	sub-17_stim-commstruc_C1.jpg
+517.1679	1	B5	0	1	0.9969	sub-17_stim-commstruc_B5.jpg
+521.2062	1	B4	0	1	1.0294	sub-17_stim-commstruc_B4.jpg
+525.2445	1	B3	0	1	1.7605	sub-17_stim-commstruc_B3.jpg
+531.2819	1	B2	0	1	0.91822	sub-17_stim-commstruc_B2.jpg
+533.321	1	B1	0	1	0.91727	sub-17_stim-commstruc_B1.jpg
+537.3593	1	A5	0	1	1.1029	sub-17_stim-commstruc_A5.jpg
+541.3976	1	A2	0	1	0.99422	sub-17_stim-commstruc_A2.jpg
+545.4359	1	A5	0	1	0.82566	sub-17_stim-commstruc_A5.jpg
+549.4741	1	A3	0	1	0.74254	sub-17_stim-commstruc_A3.jpg
+553.5124	1	A5	0	1	1.3655	sub-17_stim-commstruc_A5.jpg
+555.5515	1	A2	0	1	1.4217	sub-17_stim-commstruc_A2.jpg
+557.5907	1	A4	0	1	0.99052	sub-17_stim-commstruc_A4.jpg
+561.629	1	A3	0	1	1.5302	sub-17_stim-commstruc_A3.jpg
+565.6672	1	A5	90	1	2.043	sub-17_stim-commstruc_A5.jpg
+569.7055	1	A4	0	1	1.3578	sub-17_stim-commstruc_A4.jpg
+571.7446	1	A5	0	1	0.74109	sub-17_stim-commstruc_A5.jpg
+577.7821	1	A4	0	1	0.88979	sub-17_stim-commstruc_A4.jpg
+579.8212	1	A5	0	1	0.92288	sub-17_stim-commstruc_A5.jpg
+585.8586	1	A3	90	1	1.709	sub-17_stim-commstruc_A3.jpg
+591.8961	1	A1	0	1	1.0867	sub-17_stim-commstruc_A1.jpg
+595.9343	1	C5	0	1	1.7051	sub-17_stim-commstruc_C5.jpg
+601.9718	1	A1	0	1	1.1072	sub-17_stim-commstruc_A1.jpg
+604.0109	1	A2	90	1	1.4357	sub-17_stim-commstruc_A2.jpg
+606.05	1	A3	0	1	0.87499	sub-17_stim-commstruc_A3.jpg
+610.0883	1	A4	0	1	0.89535	sub-17_stim-commstruc_A4.jpg
+614.1266	1	A5	0	1	0.93425	sub-17_stim-commstruc_A5.jpg
